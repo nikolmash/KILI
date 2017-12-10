@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-12-10T12:59:02+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Maria/Documents/Bike_kili.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../../Bike_kili.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f471ebbc-3750-4eaf-aa78-1556e0ab328e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="14400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="15910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="19020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="24390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="25500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="27300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="36640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="37500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="40540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="42590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="59060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="61950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="64500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="66510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="72290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="73470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="76770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="77350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="82360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="82420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="90790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="92670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="100870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="102720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="111370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="112830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="125870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="126810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="129810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="131910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="136310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="137210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="140200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="143098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="144352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="144507"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="154211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="155021"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="158478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="159130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="181021"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="182130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="191652"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="191804"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="193217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="193826"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="195934"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="197521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="210717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="212152"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="218347"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="218847"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="223065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="224934"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="228717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="228760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="232782"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="232934"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="234413"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="235826"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="237565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="237760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="240065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="240931"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="251793"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="252551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="260103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="262448"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="282517"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" TIER_ID="Дима@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Я  расскажу историю про… мотоцикл, который у меня появился недавно, и… с чем он мне помог, что произошло.., и... как он мне обошёлся, как достался.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Появился он у меня относительно недавно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Ааа, это была, ну, и есть,  собственно , Хонда  СBR .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Ааа, на  шестьсот  кубов. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>От шестисот кубов идёт  спорт ...спорткар, ааа, но в данном случае это будет мотоцикл, тоже будет являться спортивным. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Там, в принципе, одно и то же разделение.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Досталась она мне за… одну треть,  потому что  предыдущий хозяин, к сожалению, так получилось, что он разбился на ней, и мне пришлось выкупить за одну треть и ремонтировать  на  свои  собственные  средства. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Я  довольно  много потратил времени на это.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Потому что … во-первых, нужно было её пригнать из другого города. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>На это у меня... ушло... где-то два дня. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Потом я искал запчасти, потом искал свободное время, чтобы этим позаниматься.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Естественно , денежные средства тоже нужно было найти. И…относительно недавно я всё это закончил…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Поначалу было даже страшно немного ездить,  потому что  до этого на  спортбайке  я не катался. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>И было ощущение, что это немного не моё, что я в любой момент могу разбиться, и всё в этом духе.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Но…  постепенно  я научился управлять, маневрировать, аа,  довольно  на большой скорости, это где-то… от ста пятидесяти до ста семидесяти. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Но,  естественно ,  СBR  может разгоняться больше. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Так как в ней  шестьсот  кубов, она может разогнаться до двухсот сорока. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Если смотреть по… табло .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Что я могу ещё сказать... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Когда ты катаешься один, у тебя абсолютное спокойствие, ты не переживаешь, у тебя есть время подумать, о чём ты хочешь. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>У тебя есть возможность закрыться в себе. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Но ни в коем случае не советую слушать музыку в наушниках, потому что...ааа, обычно даже если вы катаетесь днём, вы всё равно находитесь в потоке машин, и порой бывает очень трудно перестроиться, и не замечаете, когда вас подрезают или хотят подрезать, или просто машина появляется из ниоткуда. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Поэтому всегда лучше при выезде притормозить  немножко , потому что если вас  будет ... собьёт машина, будет немного некомфортно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Особенно если у вас нет защиты. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>У меня она, к счастью, есть, я ей пользуюсь.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Действительно жалко, что мотоцикл это… два, два с половиной сезона,  потому что  потом ааа не будет уже такого сильного желания, как  сейчас , на нём ездить, да и возможности тоже. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Ам… есть два варианта ээ покататься на мотоцикле. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Это один или эээ  [нрзб]  с ведущим. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Эээ, либо же ты сидишь вторым, это не суть. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Либо ты едешь один, но  в компании. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>То есть один на мотоцикле с компанией. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Второй случай я тоже рассматривал. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Я нашёл компанию мотоциклистов. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Поначалу они показались нормальными, но некоторые из них очень… странные и агрессивные порой. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>А это не особо приветствуется, потому что из-за большого количества конфликтов многие разбиваются именно на дороге.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Ам… я могу сделать вывод о том, что Хонда  СBR  именно для меня помогла мне преодолеть страх скорости, который у меня был действительно одним из самых сильных страхов, помогла мне найти новую компанию и альтернативный ночной способ жизни. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
